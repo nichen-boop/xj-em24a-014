@@ -1,0 +1,33 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://github.com/nichen-boop/xj-em24a-014
+    - icon: github
+      text: Github
+      href: https://github.com/nichen-boop/xj-em24a-014
+    - icon: linkedin
+      text: LinkedIn
+      href: https://github.com/nichen-boop/xj-em24a-014
+    - icon: envelope
+      text: Email
+      href: https://github.com/nichen-boop/xj-em24a-014
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+I'm Jie Xu. I'm from China. My undergraduate degree is in Digital Media Technology at Southwest Petroleum University. Now I am studying for my master's degree, specializing in Educational Management at Belarusian State University.
+
+```{=html}
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">XUJIE　XUJIE　XUJIE</a>
+</div>
+```
+
